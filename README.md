@@ -1,4 +1,4 @@
-## Hi, this is @GYC-lab! ![visitors](https://visitor-badge.glitch.me/badge?page_id=89847334)
+## Hi, this is @GYC-lab! ![visitors](https://visitor-badge.glitch.me/badge?page_id=GYC-lab)
 - 👋 Ph.D student majoring in Fluid Mechanics at Peking University.
 - 🌱 I’m currently interested in Computational Fluid Mechanics(CFD).
 - 📫 <a href="https://space.bilibili.com/376424101"> Bilibili </a> · <a href="https://www.researchgate.net/profile/Yuchen_Ge2"> ResearchGate </a> 
