@@ -13,11 +13,12 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GYC-lab&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=002FA7&width=435&lines=print+*%2C+%22Hello+World!%22;git+commit+-m+%22c'est+la+vie%22" alt="Typing SVG" /></a>
+
 <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=GYC-lab&theme=xcode" /> </div>
 
-<h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=002FA7&width=435&lines=print+*%2C+%22Hello+World!%22;git+commit+-m+%22c'est+la+vie%22" alt="Typing SVG" /></a>
- </h1>
+
+
 
 <!---
 GYC-lab/GYC-lab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
