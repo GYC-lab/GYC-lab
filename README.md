@@ -16,7 +16,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GYC-lab&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=GYC-lab&theme=xcode" /> </div>
+<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=GYC-lab&theme=react-dark" /> </div>
 
 
 
