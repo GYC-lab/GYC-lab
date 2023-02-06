@@ -8,15 +8,16 @@
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-Yuchen_Ge-brightgreen?logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Yuchen_Ge2) 
 [![](https://img.shields.io/badge/weibo-@糖吃到無味-red.svg)](https://weibo.com/u/7025691987)
 [![](https://img.shields.io/badge/CSDN-GalaxyFloyd-red.svg)](https://blog.csdn.net/weixin_43490342)
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=100&color=002FA7&width=435&lines=print+*%2C+%22Hello+World!%22;git+commit+-m+%22c'est+la+vie%22" alt="Typing SVG" /></a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GYC-lab&show_icons=true&theme=transparent)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GYC-lab&show_icons=true&theme=transparent) -->
 
 <div align="left"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=GYC-lab" /> </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GYC-lab&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
+<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=GYC-lab&theme=xcode" /> </div>
 
 
 
