@@ -11,9 +11,9 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=100&color=002FA7&width=435&lines=print+*%2C+%22Hello+World!%22;git+commit+-m+%22c'est+la+vie%22" alt="Typing SVG" /></a>
 
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GYC-lab&show_icons=true&theme=transparent) -->
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GYC-lab&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GYC-lab&show_icons=true&theme=transparent) 
 
 <div align="left"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=GYC-lab" /> </div>
 
