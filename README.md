@@ -13,17 +13,17 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GYC-lab&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GYC-lab&show_icons=true&theme=transparent) 
+<!--- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GYC-lab&show_icons=true&theme=transparent) --->
 
 <div align="left"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=GYC-lab" /> </div>
 
-<!-- <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=GYC-lab&theme=xcode" /> </div> -->
+<!--- <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=GYC-lab&theme=xcode" /> </div> --->
 
-<table align="center">
+<!---<table align="center">
   <tr>
     <td><img src="https://github-readme-activity-graph.cyclic.app/graph?username=GYC-lab&theme=xcode" alt="Activity"/></td>
   </tr>
-</table>
+</table>--->
 
 <!---
 GYC-lab/GYC-lab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
