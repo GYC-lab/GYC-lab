@@ -1,5 +1,5 @@
 ## Hi, this is @GYC-lab! 
-- 👋 Ph.D student majoring in Fluid Mechanics at Peking University.
+- 👋 Ph.D student majoring in Fluid Mechanics.
 - 🌱 I’m currently interested in Computational Fluid Mechanics (CFD).
 - 🌏 My homepage is https://gyc-lab.github.io/ (building).
 
