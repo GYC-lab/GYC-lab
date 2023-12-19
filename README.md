@@ -1,7 +1,8 @@
 ## Hi, this is @GYC-lab! 
 - 👋 Ph.D student majoring in Fluid Mechanics.
-- 🌱 I’m currently interested in Computational Fluid Mechanics (CFD).
 - 🌏 My homepage is https://gyc-lab.github.io/ (building).
+- 🌱 I’m currently interested in Computational Fluid Mechanics (CFD).
+
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=GYC-lab)
 [![Github Stars](https://img.shields.io/badge/dynamic/json?color=262525&label=Github%20Followers&logo=github&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DGYC-lab)](https://github.com/GYC-lab)
