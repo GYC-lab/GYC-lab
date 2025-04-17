@@ -17,7 +17,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GYC-lab&show_icons=true&theme=transparent) 
 
-<div align="left"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=GYC-lab" /> </div>
+<!--- <div align="left"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=GYC-lab" /> </div> --->
 
 <!--- <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=GYC-lab&theme=xcode" /> </div> --->
 
