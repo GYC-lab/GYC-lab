@@ -1,6 +1,6 @@
 ## Hi, this is @GYC-lab! 
 - 👋 Ph.D student majoring in Fluid Mechanics.
-- 🌏 My homepage is https://gyc-lab.github.io/.
+- 🌏 My homepage is https://gyc-lab.github.io.
 - 🌱 I’m currently interested in Computational Fluid Mechanics (CFD).
 
 
